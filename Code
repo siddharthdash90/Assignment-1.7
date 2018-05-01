@@ -1,0 +1,2 @@
+a=input("Enter any string to be reversed: ")
+a[::-1]
